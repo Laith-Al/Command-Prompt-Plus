@@ -26,29 +26,19 @@
 ::ZQ0/vhVqMQ3MEVWAtB9wSA==
 ::Zg8zqx1/OA3MEVWAtB9wSA==
 ::dhA7pRFwIByZRRnk
-::Zh4grVQjdCyDJGyX8VAjFBdVRRCKAES0A5EO4f7+086IoVgQUewra7P806CmNeIvyUrpeJcj0jdqisQBHA8VTh6+fTMZqH1Ws3a6AcKOoAbuRHSE6V05HnY6gnvV7A==
+::Zh4grVQjdCyDJGyX8VAjFBdVRRCKAES0A5EO4f7+086IoVgQUewra7P806CmNeIvyUrpeJcj0jdqisQBHA8VTh6+fTMZqH1Ws3a6AcKOoAbuRHSK9E40EnE6gnvV7A==
 ::YB416Ek+ZG8=
 ::
 ::
 ::978f952a14a936cc963da21a135fa983
 @echo off
-cls
-Title Movie's - Backed by Mschif
-cls
-Color A
-cls
 echo.
-echo Movie's - By Mschif
+echo Credit:
+echo -------------------------
+echo File Hosting: Github
 echo.
-echo Would You Like To Watch A Movie?
+echo Exploits: Ebola Man
 echo.
-echo Requirements: Ability For Computer To Access SSH 
+echo Creator: Laith Alshara
 echo.
-echo (Movies Are Compleatly Random and change every day!)
-echo.
-echo Press Any Key To Watch:
-pause >nul
-ssh -o StrictHostKeyChecking=no watch.ascii.theater
-echo The Movie Has Finished! Please Exit
-pause
-exit
+@echo on
