@@ -1,0 +1,13 @@
+⭐ Laith Alshara ⭐
+--------------------
+
+Thank you for downloading Command Prompt Plus!
+To Setup Command Prompt Plus, you have to do the following:
+
+1. Copy all the files inside the "Master_Version" folder and paste all of them in System32
+
+2. After that, Run command prompt "As Administrator" and in there, type in: setup_cmd.exe
+
+3. After doing that run through the setup and restart the computer after installtion!
+
+4. Enjoy! You are a proud owner of CMD Plus!
