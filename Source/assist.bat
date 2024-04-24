@@ -55,4 +55,10 @@ echo.
 echo User: Who is Signed In?
 echo.
 echo Credit: Shows Credit For This Software
+echo.
+echo Pin: Generate a secure 4 digit pin
+echo.
+echo psg: Generate a password. Type in either PSG8 or PSG12 to generate a 8 character password or 12 character password
+echo.
+echo 
 @echo on
