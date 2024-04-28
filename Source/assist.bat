@@ -36,4 +36,8 @@ echo.
 echo user: Tells you who is logged in currently.
 echo.
 echo restart: Restart your computer!
+echo.
+echo wifip: Shows you the wifi password you want!
+echo.
+echo REGRES
 @echo on
