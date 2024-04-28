@@ -44,4 +44,5 @@ echo.
 echo dwifip: Directly Gives You Wifi Name's And Passwords!
 echo.
 echo ZipBOMB: Crack Password Protected ZIP files!
+echo.
 @echo on

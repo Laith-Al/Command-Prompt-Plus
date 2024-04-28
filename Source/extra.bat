@@ -1,7 +1,15 @@
 @echo off
 cls
-echo Most these commands use python!
+color 4
+cls
 echo.
-echo pyh: checks to see if you have Python and installs setup if you don't
+echo You are going to view experimental commands that are not secured
 echo.
-@echo on
+echo Press any button to continue:
+pause >nul
+cls
+color 
+echo No Commands Are Available!
+echo.
+pause
+exit

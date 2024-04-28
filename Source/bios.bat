@@ -26,8 +26,9 @@ exit
 
 :No
 echo You chose to stop.
+echo.
+pause
 exit
-goto End
 
 :End
 exit
