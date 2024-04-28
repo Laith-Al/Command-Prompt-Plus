@@ -39,5 +39,9 @@ echo restart: Restart your computer!
 echo.
 echo wifip: Shows you the wifi password you want!
 echo.
-echo REGRES
+echo REGRES: Uninstalls Registry From CMD+ 
+echo.
+echo dwifip: Directly Gives You Wifi Name's And Passwords!
+echo.
+echo ZipBOMB: Crack Password Protected ZIP files!
 @echo on

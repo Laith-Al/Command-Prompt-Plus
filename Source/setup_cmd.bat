@@ -65,4 +65,10 @@ echo 4. After Compleating, Restart Computer (Optional)
 echo.
 echo 5. Enjoy!
 echo.
+echo ----------------------------
+echo Press Any Button To Install Registry Required!
+pause >nul
+start cmd+.reg
+echo installed registry
 pause
+exit
