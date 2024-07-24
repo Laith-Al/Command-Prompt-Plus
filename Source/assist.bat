@@ -42,7 +42,7 @@ echo version: Shows Current Version Of Command-Prompt-Plus
 echo.
 echo setup_cmd: Shows Installation Setup Process
 echo.
-echo windowsver: Shows Windows Version using winver
+echo windowsver: Shows Windows Version
 echo.
 echo movies: Displays A ASSCI Movie
 echo.
@@ -77,5 +77,7 @@ echo.
 echo dwifip: Directly Gives You Wifi Name's And Passwords!
 echo.
 echo ZipBOMB: Crack Password Protected ZIP files!
+echo.
+echo store - Allows User To Install Apps From s0ftarch directly from CMD!
 echo.
 @echo on

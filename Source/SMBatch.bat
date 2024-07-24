@@ -36,6 +36,8 @@ title SMBatch
 color B
 cls
 echo.
+echo This Program Is Experimental!
+echo.
 echo SMBatch - SMB Bruteforce                                                                                           
 set /p ip="Enter IP Address: "
 set /p user="Enter Username: "

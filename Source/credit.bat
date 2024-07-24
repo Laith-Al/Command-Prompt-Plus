@@ -56,6 +56,8 @@ echo.
 echo ZipBOMB Support: 7-Zip
 echo.
 echo Batch File Compiling: Bat To EXE
+echo.
+echo App Store: S0ftarch!
 echo -------------------------------------------
 echo.
 @echo on

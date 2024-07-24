@@ -40,6 +40,8 @@ echo.
 echo Setup Of Command Prompt Plus:
 echo.
 echo Thank you for installing CMD Plus!
+echo.
+echo.
 echo Please Agree To The Following:
 echo.
 echo 1. Make sure you are installing the **Real** Command Prompt Plus From The Offical Github Page!

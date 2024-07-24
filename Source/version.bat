@@ -38,5 +38,5 @@ ver
 echo.
 echo Command Prompt Plus Version:
 echo.
-echo Version: 1.0
+echo Version: 1.6
 @echo on
